@@ -1,5 +1,3 @@
-# First you need to create a person class that is initialized with a name that cannot be changed.
-#f class Personshould be able to remember their name
 class Person
     attr_reader :name, :happiness, :hygiene
     attr_accessor :bank_account
